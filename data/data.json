@@ -1,0 +1,220 @@
+{
+  "personal": {
+    "name": "Amrutha Varshini",
+    "title": "Full Stack Developer",
+    "subtitle": "B.Tech CSE Student | Passionate about building elegant, user-centered web applications",
+    "email": "amruthavarshiniii@gmail.com",
+    "phone": "+91 9876543210",
+    "location": "Andhra Pradesh, India",
+    "linkedin": "https://www.linkedin.com/in/amruthavarshiniii",
+    "github": "https://github.com/amruthavarshiniii",
+    "leetcode": "https://leetcode.com/amruthavarshiniii",
+    "resume": "/resume.pdf"
+  },
+  "about": {
+    "bio": "I am Amrutha Varshini, a passionate Computer Science and Engineering student with a strong interest in full stack web development. I enjoy crafting clean, efficient code and building solutions that make an impact. I thrive in collaborative environments and am always eager to learn new technologies.",
+    "objective": "To leverage my technical skills in a dynamic organization where I can contribute meaningfully, grow professionally, and build innovative software products that solve real-world problems.",
+    "hobbies": ["Reading tech blogs", "Competitive programming", "UI/UX design", "Listening to music"]
+  },
+  "education": [
+    {
+      "level": "B.Tech in Computer Science & Engineering",
+      "institution": "KL University",
+      "location": "Vijayawada, Andhra Pradesh",
+      "year": "2022 – 2026",
+      "score": "9.2 CGPA",
+      "description": "Pursuing a four-year undergraduate program with a focus on software engineering, data structures, algorithms, and web development."
+    },
+    {
+      "level": "Intermediate (MPC)",
+      "institution": "Sri Chaitanya Junior College",
+      "location": "Andhra Pradesh",
+      "year": "2020 – 2022",
+      "score": "96.4%",
+      "description": "Completed intermediate education with Mathematics, Physics, and Chemistry stream with distinction."
+    },
+    {
+      "level": "Secondary School (Class X)",
+      "institution": "Narayana High School",
+      "location": "Andhra Pradesh",
+      "year": "2019 – 2020",
+      "score": "10.0 GPA",
+      "description": "Secured perfect GPA in SSC Board Examinations with outstanding academic performance."
+    }
+  ],
+  "skills": {
+    "frontend": ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Tailwind CSS", "Bootstrap"],
+    "backend": ["Node.js", "Express.js", "Python", "REST APIs"],
+    "database": ["MySQL", "MongoDB", "Firebase"],
+    "tools": ["Git", "GitHub", "VS Code", "Postman", "Figma", "Netlify", "Vercel"],
+    "cs_concepts": ["Data Structures & Algorithms", "Object-Oriented Programming", "Operating Systems", "Computer Networks", "DBMS", "Software Engineering"]
+  },
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A multi-page responsive portfolio website built with React.js to showcase skills, projects, certifications, and contact information. Features smooth animations and a clean UI.",
+      "technologies": ["React.js", "React Router", "CSS3", "Vite"],
+      "features": [
+        "Multi-page routing with React Router",
+        "Fully responsive and mobile-friendly",
+        "Smooth hover animations and transitions",
+        "Dynamic data rendering from JSON"
+      ],
+      "github": "https://github.com/amruthavarshiniii/portfolio",
+      "live": "#"
+    },
+    {
+      "title": "Student Management System",
+      "description": "A full stack web application to manage student records including registration, attendance, grades, and reports. Built with React frontend and Express.js backend.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB"],
+      "features": [
+        "CRUD operations for student records",
+        "Role-based authentication (Admin/Student)",
+        "Attendance and grade tracking",
+        "Exportable reports"
+      ],
+      "github": "https://github.com/amruthavarshiniii/student-management",
+      "live": "#"
+    },
+    {
+      "title": "E-Commerce Platform",
+      "description": "A fully functional e-commerce website with product listing, cart management, and checkout flow. Integrated with a payment gateway and user authentication.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MySQL"],
+      "features": [
+        "Product catalog with search and filters",
+        "Shopping cart and wishlist",
+        "User authentication and profile",
+        "Order tracking"
+      ],
+      "github": "https://github.com/amruthavarshiniii/ecommerce",
+      "live": "#"
+    },
+    {
+      "title": "Weather Application",
+      "description": "A real-time weather forecasting app that fetches live data from OpenWeatherMap API. Displays current conditions and a 5-day forecast with beautiful visuals.",
+      "technologies": ["React.js", "OpenWeatherMap API", "CSS3"],
+      "features": [
+        "Real-time weather data",
+        "5-day forecast",
+        "Search by city name",
+        "Responsive and animated UI"
+      ],
+      "github": "https://github.com/amruthavarshiniii/weather-app",
+      "live": "#"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Full Stack Web Development",
+      "provider": "Coursera (Meta)",
+      "year": "2024",
+      "description": "Comprehensive training in HTML, CSS, JavaScript, React, Node.js, Express, and databases. Completed capstone project."
+    },
+    {
+      "title": "Data Structures & Algorithms",
+      "provider": "GeeksForGeeks",
+      "year": "2023",
+      "description": "In-depth certification covering arrays, linked lists, trees, graphs, dynamic programming and complexity analysis."
+    },
+    {
+      "title": "Python for Everybody",
+      "provider": "Coursera (University of Michigan)",
+      "year": "2023",
+      "description": "Completed 5-course specialization covering Python fundamentals, web scraping, databases, and data visualization."
+    },
+    {
+      "title": "AWS Cloud Foundations",
+      "provider": "Amazon Web Services (AWS)",
+      "year": "2024",
+      "description": "Introduction to cloud computing concepts, AWS core services, security, architecture, pricing, and support."
+    },
+    {
+      "title": "UI/UX Design Fundamentals",
+      "provider": "Google (via Coursera)",
+      "year": "2024",
+      "description": "Covered user research, wireframing, prototyping with Figma, and design thinking principles."
+    }
+  ],
+  "codingProfiles": [
+    {
+      "platform": "LeetCode",
+      "username": "amruthavarshiniii",
+      "url": "https://leetcode.com/amruthavarshiniii",
+      "description": "Solved 300+ problems across Easy, Medium, and Hard categories. Active in weekly and biweekly contests.",
+      "stats": "300+ Problems Solved"
+    },
+    {
+      "platform": "GeeksForGeeks",
+      "username": "amruthavarshiniii",
+      "url": "https://auth.geeksforgeeks.org/user/amruthavarshiniii",
+      "description": "Consistent problem solver on GFG with a focus on data structures and algorithmic challenges.",
+      "stats": "200+ Problems Solved"
+    },
+    {
+      "platform": "HackerRank",
+      "username": "amruthavarshiniii",
+      "url": "https://www.hackerrank.com/amruthavarshiniii",
+      "description": "Earned 5-star badges in Problem Solving, Python, and SQL. Active participant in skill certification tests.",
+      "stats": "5-Star in Problem Solving"
+    },
+    {
+      "platform": "GitHub",
+      "username": "amruthavarshiniii",
+      "url": "https://github.com/amruthavarshiniii",
+      "description": "Active open source contributor. Repository includes portfolio projects, DSA practice, and mini web apps.",
+      "stats": "15+ Repositories"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Problem Solving",
+      "description": "Ability to break down complex problems into manageable components and devise efficient solutions."
+    },
+    {
+      "title": "Quick Learner",
+      "description": "Rapidly adapts to new technologies and frameworks, consistently staying updated with industry trends."
+    },
+    {
+      "title": "Team Collaboration",
+      "description": "Effective communicator who works well in agile teams, contributing to shared goals and deadlines."
+    },
+    {
+      "title": "Attention to Detail",
+      "description": "Meticulous approach to writing clean, readable, and well-documented code with minimal bugs."
+    },
+    {
+      "title": "Time Management",
+      "description": "Skilled at prioritizing tasks and meeting deadlines consistently across academic and project work."
+    },
+    {
+      "title": "Adaptability",
+      "description": "Comfortable working under pressure and adjusting to changing requirements in dynamic environments."
+    }
+  ],
+  "interests": [
+    {
+      "title": "Web Development",
+      "description": "Passionate about building modern, performant, and accessible web applications that deliver great user experiences."
+    },
+    {
+      "title": "Competitive Programming",
+      "description": "Enjoy solving algorithmic challenges on LeetCode, GeeksForGeeks, and HackerRank to sharpen problem-solving skills."
+    },
+    {
+      "title": "Open Source",
+      "description": "Contributing to open source projects and exploring community-driven development on GitHub."
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Fascinated by the intersection of aesthetics and usability — designing interfaces that are both beautiful and functional."
+    },
+    {
+      "title": "Cloud Computing",
+      "description": "Exploring cloud platforms like AWS and cloud-native architectures for scalable application deployment."
+    },
+    {
+      "title": "Reading & Learning",
+      "description": "Regularly reading tech blogs, documentation, and books to stay updated with the ever-evolving tech landscape."
+    }
+  ]
+}

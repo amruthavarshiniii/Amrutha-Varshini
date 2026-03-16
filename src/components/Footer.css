@@ -1,0 +1,117 @@
+/* ========== FOOTER ========== */
+
+.footer {
+  background: var(--clr-text-heading);
+  color: #cbd5e1;
+  padding: var(--space-2xl) 0 var(--space-lg);
+  margin-top: auto;
+}
+
+.footer-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--space-xl);
+}
+
+.footer-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: var(--space-xl);
+  padding-bottom: var(--space-xl);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  flex-wrap: wrap;
+}
+
+.footer-brand h3 {
+  font-family: var(--ff-heading);
+  font-size: var(--fs-2xl);
+  color: #fff;
+  margin-bottom: var(--space-xs);
+}
+
+.footer-brand p {
+  font-size: var(--fs-sm);
+  color: #94a3b8;
+}
+
+.footer-links h4 {
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: var(--space-md);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.footer-links ul {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.footer-links a {
+  font-size: var(--fs-sm);
+  color: #94a3b8;
+  text-decoration: none;
+  transition: var(--transition-fast);
+}
+
+.footer-links a:hover {
+  color: #fff;
+  padding-left: 4px;
+}
+
+.footer-social {
+  display: flex;
+  gap: var(--space-md);
+  flex-wrap: wrap;
+}
+
+.footer-social a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: var(--fs-sm);
+  color: #94a3b8;
+  text-decoration: none;
+  transition: var(--transition-fast);
+  padding: 8px 16px;
+  border: 1px solid rgba(255,255,255,0.1);
+  border-radius: var(--radius-full);
+}
+
+.footer-social a:hover {
+  color: #fff;
+  border-color: var(--clr-primary);
+  background: rgba(59,91,219,0.15);
+}
+
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: var(--space-lg);
+  flex-wrap: wrap;
+  gap: var(--space-sm);
+}
+
+.footer-bottom p {
+  font-size: var(--fs-xs);
+  color: #64748b;
+}
+
+.footer-bottom span {
+  color: #e11d48;
+}
+
+@media (max-width: 768px) {
+  .footer-top {
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+  .footer-bottom {
+    flex-direction: column;
+    text-align: center;
+  }
+}

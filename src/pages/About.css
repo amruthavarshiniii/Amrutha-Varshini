@@ -1,0 +1,78 @@
+/* ========== ABOUT PAGE ========== */
+.about-content {
+  padding: var(--space-3xl) 0;
+}
+
+.about-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-2xl);
+  align-items: start;
+}
+
+.about-bio .card {
+  height: 100%;
+}
+
+.about-bio h2, .about-objective h2, .personal-info h2 {
+  font-family: var(--ff-heading);
+  font-size: var(--fs-xl);
+  margin-bottom: var(--space-md);
+  color: var(--clr-text-heading);
+}
+
+.about-bio p {
+  color: var(--clr-text-body);
+  line-height: 1.8;
+  font-size: var(--fs-md);
+}
+
+.about-objective {
+  margin-top: var(--space-2xl);
+}
+
+.personal-info {
+  margin-top: var(--space-2xl);
+}
+
+.info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-md);
+}
+
+.info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.info-label {
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  color: var(--clr-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.info-value {
+  font-size: var(--fs-base);
+  color: var(--clr-text-heading);
+  font-weight: 500;
+}
+
+.info-value a {
+  color: var(--clr-primary);
+}
+
+.hobbies-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  margin-top: var(--space-md);
+}
+
+@media (max-width: 768px) {
+  .about-grid { grid-template-columns: 1fr; }
+  .info-grid { grid-template-columns: 1fr; }
+}
