@@ -156,3 +156,18 @@
     display: flex;
   }
 }
+
+@media (max-width: 480px) {
+  .navbar-inner {
+    padding: 0 var(--space-md);
+  }
+  .navbar-logo {
+    font-size: var(--fs-xl);
+  }
+  .mobile-menu {
+    padding: var(--space-sm) var(--space-md);
+  }
+  .mobile-menu a {
+    padding: 12px var(--space-md);
+  }
+}
