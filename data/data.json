@@ -19,27 +19,27 @@
   "education": [
     {
       "level": "B.Tech in Computer Science & Engineering",
-      "institution": "KL University",
-      "location": "Vijayawada, Andhra Pradesh",
+      "institution": "Vignan Institute of Information Technology",
+      "location": "Duvvada , Visakhapatnam, Andhra Pradesh",
       "year": "2022 – 2026",
-      "score": "9.2 CGPA",
+      "score": "8.33 CGPA",
       "description": "Pursuing a four-year undergraduate program with a focus on software engineering, data structures, algorithms, and web development."
     },
     {
       "level": "Intermediate (MPC)",
-      "institution": "Sri Chaitanya Junior College",
-      "location": "Andhra Pradesh",
+      "institution": "Narayana Junior College",
+      "location": "VizagAndhra Pradesh",
       "year": "2020 – 2022",
-      "score": "96.4%",
+      "score": "93.2%",
       "description": "Completed intermediate education with Mathematics, Physics, and Chemistry stream with distinction."
     },
     {
       "level": "Secondary School (Class X)",
-      "institution": "Narayana High School",
+      "institution": "St. Ann's  School",
       "location": "Andhra Pradesh",
       "year": "2019 – 2020",
-      "score": "10.0 GPA",
-      "description": "Secured perfect GPA in SSC Board Examinations with outstanding academic performance."
+      "score": "82%",
+      "description": "Completed secondary education with distinction."
     }
   ],
   "skills": {
